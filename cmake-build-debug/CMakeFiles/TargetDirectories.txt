@@ -1,0 +1,3 @@
+C:/Users/vojte/Documents/algPripravaNaZkousku09_09_Textove_soubory/cmake-build-debug/CMakeFiles/algPripravaNaZkousku09_09_Textove_soubory.dir
+C:/Users/vojte/Documents/algPripravaNaZkousku09_09_Textove_soubory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vojte/Documents/algPripravaNaZkousku09_09_Textove_soubory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
